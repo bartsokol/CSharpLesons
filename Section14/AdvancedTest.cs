@@ -11,7 +11,7 @@ namespace section14
         [TestMethod]
         public void DelegateTest()
         {
-            DelegateDemo.Main();
+            DelegateDemo.Demo();
         }
 
         [TestMethod]

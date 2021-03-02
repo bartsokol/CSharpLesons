@@ -2,9 +2,9 @@
 
 namespace LoopExample
 {
-    class Program
+    class LoopExample
     {
-        static void Main(string[] args)
+        static void Example()
         {
             string inValue = "";
             while (inValue != "−99")

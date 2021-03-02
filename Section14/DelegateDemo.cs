@@ -22,7 +22,7 @@ namespace section14
             Console.WriteLine("Method 3");
         }
 
-        public static void Main()
+        public static void Demo()
         {
             Procedure someProcs = null;
 
